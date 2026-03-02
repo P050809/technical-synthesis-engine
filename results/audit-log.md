@@ -12,3 +12,6 @@ Infringements by providers of general-purpose AI models (including infringing pr
 * Exception for SMEs and Start-ups: For the first three violations listed above, if the offender is a Small and Medium-sized Enterprise (SME) or a start-up, the fine will be up to the percentages or amounts listed, whichever thereof is lower (stated on Page 392).
 
 * A small cross-checking detail -> Verified Section 71, Page 142—AI identified the €35M penalty correctly.
+
+<img width="1365" height="626" alt="image" src="https://github.com/user-attachments/assets/ca3d973f-619e-4daa-ac6e-b87fcbad0716" />
+
